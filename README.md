@@ -44,8 +44,13 @@ Running the Application
 The application will be available at http://localhost:3001.
 
 API Endpoints
+
 GET /items - Retrieve all books
+
 GET /items/:id - Retrieve a book by ID
+
 POST /items - Add a new book
+
 PUT /items/:id - Update a book by ID
+
 DELETE /items/:id - Delete a book by ID
